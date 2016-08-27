@@ -1,0 +1,17 @@
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/UnityEngine.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/UnityEditor.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/Mono.Cecil.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/Unity.DataContract.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/yoichiro/MyCodes/Unity/iOSLanguagePlugIn/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
